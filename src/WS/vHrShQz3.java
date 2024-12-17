@@ -1,4 +1,5 @@
 package WS;
+import medianews.*;
 
 public class vHrShQz3 {
     public static void main(String[] args) {

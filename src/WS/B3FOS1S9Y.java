@@ -1,4 +1,7 @@
 package WS;
+import medianews.*;
+
+import java.util.List;
 
 public class B3FOS1S9Y {
     public static void main(String[] args) {

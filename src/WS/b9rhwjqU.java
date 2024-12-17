@@ -2,6 +2,7 @@ package WS;
 
 import java.util.ArrayList;
 import java.util.List;
+import medianews.*;
 
 public class b9rhwjqU {
     public static void main(String[] args) {
